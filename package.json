@@ -1,0 +1,14 @@
+{
+  "name": "whatbot",
+  "version": "1.0.0",
+  "description": "This sends messages to someone on whatsapp.",
+  "main": "w.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jus7Shush",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
