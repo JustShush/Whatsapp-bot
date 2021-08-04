@@ -31,4 +31,5 @@ Isto é um bot que manda mensagens automaticamente para uma outra pessoa por Wha
   <a href="https://discord.gg/BSfXFmB"><img src="https://cdn.discordapp.com/attachments/704028617595682876/872534726706098177/cisco-webex-meetings1.png"></a>
   </p>
   
-<h1 align="center">Join the support server if needed any help [Click here](https://discord.gg/BSfXFmB)</h1>
+<h1 align="center">Join the support server if needed any <a href="https://discord.gg/BSfXFmB">help.</a></h1>
+[Click here](https://discord.gg/BSfXFmB)
