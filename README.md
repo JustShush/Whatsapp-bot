@@ -1,6 +1,6 @@
 # Whatsapp-Bot
 
-This is a Bot that sends messages automatically to another person in Whatsapp.
+* This is a Bot that sends messages automatically to another person in Whatsapp.
 
 
 ## Technologies:
@@ -16,7 +16,7 @@ This is a Bot that sends messages automatically to another person in Whatsapp.
 
 # Whatsapp-Bot
 
-Isto é um bot que manda mensagens automaticamente para uma outra pessoa por Whatsapp.
+* Isto é um bot que manda mensagens automaticamente para uma outra pessoa por Whatsapp.
 
 
 ## Tecnologias:
