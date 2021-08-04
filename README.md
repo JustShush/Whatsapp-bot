@@ -26,3 +26,7 @@ Isto é um bot que manda mensagens automaticamente para uma outra pessoa por Wha
 ## Como usar:
 - Depois de copiar os ficheiros, vai ao terminal(windownsKey + r, cmd) e escreve: npm install puppeteer.
 - Troca as variaveis chamadas: constactName, amountOfMessages e message para conseguires personalizar o bot.
+
+<p align="center">
+  <a href="https://discord.gg/BSfXFmB"><img src="https://cdn.discordapp.com/attachments/704028617595682876/872534726706098177/cisco-webex-meetings1.png"></a>
+  </p>
