@@ -17,7 +17,7 @@ const puppeteer = require('puppeteer');
         await delay(5000);
 
         //Change to contact you want to send messages to
-        const contactName = "Bruno";
+        const contactName = "contactName";
         await page.click(`span[title='${contactName}']`);
         await page.waitForSelector("._2vbn4");
 
@@ -32,7 +32,7 @@ const puppeteer = require('puppeteer');
         for (var i = 0; i < amountOfMessages; i++) {
             await page.evaluate(() => {
         
-                const message = "Porca! " + i ;
+                const message = "test";
                 document.execCommand("insertText", false, message);
             });
             await page.click("span[data-testid='send']");
