@@ -12,7 +12,7 @@ This is a Bot that sends messages automatically to another person in Whatsapp.
 - Change the variables named: contactName, amountOfMessages, and message to personalize your bot.
 
 
-# Em Portugues agora :) (PT)
+# Em Portugues agora :) (PT):portugal:
 
 # Whatsapp-Bot
 
